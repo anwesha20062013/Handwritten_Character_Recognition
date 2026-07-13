@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+emnist-balanced-train.csv
+emnist-balanced-test.csv
+*.csv
