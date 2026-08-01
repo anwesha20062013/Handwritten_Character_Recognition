@@ -31,6 +31,8 @@ st.sidebar.write("📚 Dataset: MNIST + EMNIST Balanced")
 
 st.sidebar.write("🧠 Model: Convolutional Neural Network (CNN)")
 
+st.sidebar.write("🖼️ Image Processing: OpenCV")
+
 st.sidebar.write("⚙️ Framework: TensorFlow & Streamlit")
 
 st.sidebar.markdown("---")
